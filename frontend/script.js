@@ -1,5 +1,5 @@
 // Konfiguracja URL backendu
-const BACKEND_URL = 'https://factorial-backend.onrender.com'; // Zmień na swój URL Render'a
+const BACKEND_URL = 'https://silnia-app.onrender.com'; // Zmień na swój URL Render'a
 const LOCAL_BACKEND = 'http://localhost:5000'; // Do testów lokalnych
 
 // Sprawdzenie statusu backendu
